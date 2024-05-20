@@ -6,12 +6,7 @@
 
 </h1>
 
-
- * [Topluluk kanalımız](https://t.me/corenodechat)<br>
- * [Topluluk Twitter](https://twitter.com/corenodeHQ)<br>
- * [Discord](https://discord.com/invite/0glabs)<br>
- * [Twitter](https://twitter.com/0G_labs)<br>
- * [Discord](https://discord.gg/initia)<br>
+* [Discord](https://discord.gg/initia)<br>
 
 ## FAUCET 
 
